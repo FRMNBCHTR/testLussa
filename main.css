@@ -1,0 +1,10 @@
+#app{
+	font-family: 'Raleway', sans-serif;
+	color: #184d47;
+}
+
+.router-link-exact-active {
+	font-weight: bold;
+	color: grey;
+
+}
